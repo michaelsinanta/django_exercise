@@ -1,0 +1,1 @@
+web: gunicorn django_exercise_michaelsinanta.wsgi --log-file -
